@@ -17,7 +17,7 @@ python train.py
 ## About
 
 This repository was created for the purpose of voice completion.\
-Therefore, the following changes were made to Wave-U-Net.\
+Therefore, the following changes were made to Wave-U-Net.
 
 ### Dataset
 
