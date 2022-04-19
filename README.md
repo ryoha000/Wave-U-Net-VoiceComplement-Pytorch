@@ -10,7 +10,7 @@ Thanks:)
 
 ```
 docker build -t unet_voice_complement .
-docker run --shm-size 8gb -v .:/app -d -it unet_voice_complement bash
+docker run --shm-size 8gb -v .:/app -it unet_voice_complement bash
 python train.py
 ```
 
